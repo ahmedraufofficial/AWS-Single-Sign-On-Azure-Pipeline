@@ -1,0 +1,8 @@
+image: hashicorp/terraform:light
+
+pipelines:
+  default: 
+    - step:
+        name: Checking TF State
+        script:
+        - apk add curl
