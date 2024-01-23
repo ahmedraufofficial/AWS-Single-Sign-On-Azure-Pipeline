@@ -1,4 +1,4 @@
-# Pipeline Process 1 for AWS Single Sign on Access from Azure Enterprise Application
+# AWS Single Sign on Access from Azure Enterprise Application
 
 ## :abacus: Scope
 
